@@ -1,1 +1,1 @@
-This is Rana's Homework
+The code will first list the tickers based on unique records.Then it will loop through the tickers to calculate the yearly change, percent change, and total volume. The second part of the code calculate the max for changes as well as volume. 
